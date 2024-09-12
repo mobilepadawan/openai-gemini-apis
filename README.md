@@ -27,4 +27,4 @@ If you want to avoid the double `**` and `##` chars in some of responses, add th
 ```
 
 ### Notes
-__ I will change the base code converting both functions with a `return` and I will create an API Restful sample to make a better project. Be patience with my shorted times. __
+*I will change the base code converting both functions with a `return` and I will create an API Restful sample to make a better project. Be patience with my shorted times.*
